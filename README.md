@@ -12,7 +12,7 @@ Made with **Claude Opus 5.5** (Anthropic) on a **Claude Pro** subscription, for 
 
 WHISP is an 8K intro by REBELS: one Windows exe of **8191 bytes** that plays 114 seconds of picture and music, all generated on the GPU when it starts. Nothing is stored but code: no images, no meshes, no samples.
 
-The story is a storm on a moonlit plain. After a 20-second prologue (the REBELS logo, credits, the title), a calm cloud deck starts to turn and lowers into a wall cloud. A funnel descends, touches down at 35 s, and tears out the trees and shrubs one after another. From 40 s the scene slides into an apocalypse: thicker fog, harder rain, heavier thunder. At 70 s the storm steps back for a heartbeat break in slow motion. At 80 s it comes back in full, and the intro ends in a fade to black with the storm still rumbling.
+The story is a storm on a moonlit plain. After a 20-second prologue, a calm cloud deck starts to turn and lowers into a wall cloud. A funnel descends, touches down at 35 s, and tears out the trees and shrubs one after another. From 40 s the scene slides into an apocalypse: thicker fog, harder rain, heavier thunder. At 70 s the storm steps back for a heartbeat break in slow motion. At 80 s it comes back in full, and the intro ends in a fade to black with the storm still rumbling.
 
 It grew out of a 4K framework: the brick system of skarab's Vulkan RTX volume demos, ported to OpenGL compute so it fits a 32-bit Crinkler build.
 
