@@ -1,0 +1,28 @@
+
+             _______. _____  _____  .____    ___.  ______
+         /  /       \/     \/   . \ /  _  \ /   / /   .__|_  \ _
+    _ /` \  `/   /. /   _`_/     <.   ____//   /__\_  ____  \  \  \. ,
+   /     /  /   .  \   `/   \  /   /  `/   \   \    \`   /`  \   \   \ =  `
+ \__  =  \  \___/\__|_______/_____/________/._______/________/  /  _   /
+
+
+                                        WHISP
+
+                                        pc 8k intro for comparade 2026
+                                        -> skarab & teo & critikill  
+
+        HOW IT WAS MADE
+        ---------------
+        Whisp is built on my own code base, the engine, tools and
+        tricks carried over my earlier prods, from sounds to visuals.
+
+        On top of that, this one was made with the help of an AI
+        assistant (Claude, by Anthropic), this to get rapid
+		prototyping, and it helped a lot for the byte hunting.
+		
+		Hope you enjoy the storm.
+
+        Packed with Crinkler, shader squeezed with Shader Minifier.
+
+
+                                                        -- skarab

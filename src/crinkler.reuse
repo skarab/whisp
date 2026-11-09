@@ -1,0 +1,28 @@
+
+# Code models
+00:1 80:3 40:1 88:3 20:1 B4:5 60:1 AE:6
+
+# Data models
+00:1 80:2 40:0 C0:3 AD:4 A0:1 E0:2 53:3 D0:1 70:1 B0:2 CA:3 68:1 B8:2 96:3 8C:1 34:0
+
+# Code sections
+Crinkler import:.text:_Import
+MAIN.OBJ:.text$mn:_entry
+MAIN.OBJ:.text$mn:?RenderFrame@@YAXPAUHDC__@@H@Z
+MAIN.OBJ:.text$mn:?RunPass@@YAXHH@Z
+MAIN.OBJ:.text$mn:?RenderAudio@@YAXXZ
+
+# Data sections
+DLLNamesHunk:_DLLNames
+MAIN.OBJ:.rdata:?glNames@@3QBDB
+MAIN.OBJ:.data:?intro_glsl@@3PBDB
+MAIN.OBJ:.rdata:??_C@_04NABONMNG@edit@
+MAIN.OBJ:.rdata:??_C@_0FGFL@JDHOFGMA@layout?$CIlocation?$DN0?$CJuniform?5int?5v@
+
+# Uninitialized sections
+MAIN.OBJ:.bss:?audioBuffer@@3PAFA
+Crinkler import:constants:.absolut
+ImportListHunk:_ImportList
+
+# Hash table size
+521248903
